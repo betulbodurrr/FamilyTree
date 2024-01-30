@@ -1,0 +1,6 @@
+﻿id;İsim;Soyisim;Doğum Tarihi;Eşi;Anne Adı;Baba Adı;Kan Grubu;Meslek;Medeni Hali;Kızlık Soyismi;Cinsiyet
+31;Yakup;Aslan;2.05.1960;Funda Dönmez;Ecem;Kemal;0(+);İşçi;Evli;;Erkek
+32;Funda;Aslan;4.08.1963;Yakup Aslan;Hatice;Sabri;0(+);Ev Hanımı;Evli;Dönmez;Kadın
+33;Mahmut;Aslan;10.10.1986;Semra Kurt;Funda;Yakup;0(+);İşçi;Evli;;Erkek
+34;Yıldız;Pekel;8.06.1994;Emre Pekel;Funda;Yakup;AB(+);Öğretmen;Evli;;Kadın
+35;İrem;Şimşek;4.04.2019;;Yıldız;Ahmet;0(-);Öğrenci;Bekar;;Kadın
