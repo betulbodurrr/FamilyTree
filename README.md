@@ -3,7 +3,7 @@ Family Tree<br>
 <img align="center" src="https://www.svgrepo.com/show/365950/usa.svg"  height="20" width="30" />En:</a><br>
 
 Programming Laboratory I, our 3rd project is the Rock Paper Scissors project.
-It is written in the Python language.<br>
+It is written in the Java language.<br>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  height="30" width="40" /></a><br>
 
 Project Description:<br>
@@ -14,7 +14,7 @@ Project Description:<br>
 
 <img align="center" src="https://www.svgrepo.com/show/237418/turkey.svg"  height="30" width="40" />Tr:</a><br>
 Programlama Laboratuvarı I dersimizin 3. projesi olan Taş Kağıt Makas Oyunu projesidir.
-Python dilinde yazılmıştır.<br>
+Java dilinde yazılmıştır.<br>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  height="30" width="40" /></a><br>
 
 Proje Açıklaması:<br>
