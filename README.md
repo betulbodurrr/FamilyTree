@@ -11,9 +11,9 @@ Bu projede verilen 4 sayfalık, içerisinde kişisel bilgilerin (ad, soyad, eş 
 Kişilerin bilgilerinin bulunduğu .csv uzantılı bir dosya okunup içerisinde bulunan bilgiler yardımıyla soy ağacı oluşturulmalıdır. Kişi adında TC no (ID), ad, soyadı, doğum tarihi, anne adı, baba adı, kan grubu ve meslek, kızlık soyadı ve cinsiyet bilgilerinin bulunduğu sınıf yapısı oluşturulmalıdır. Ağaç yapısı oluşturulduktan sonra; Çocuğu olmayan düğümler depth-first algoritması ile bulunup yaş sıralamasına göre kayıt edilmeli ve sıralama adımları gösterilmeli, üvey kardeşler breadth-first algoritması ile bulunarak harf sıralamasına göre kayıt edilmeli ve sıralama adımları gösterilmeli. Kullanıcıdan alınacak kan grubuna sahip bireyler gösterilmeli, kişiden alınacak kişi bilgisi ile kişinin soyunda aynı mesleği yapan çocukları ve torunları gösterilmeli, soy ağacında aynı isme sahip bireylerin ismi ve yaşları gösterilmeli, kullanıcıdan alınacak 2 tane isim girdisinden sonra büyük olan kişinin küçük olan kişiye yakınlığı gösterilmeli, kullanıcıdan alınacak kişi bilgisi ile o kişiye ait soy ağacı gösterilmeli ve yakınlığı yazılmalı, soy ağacının kaç nesilden oluştuğu bulunmalı, kullanıcıdan alınan isim girdisinden sonra kaç nesil geldiği bulunmalıdır.
 <br>
 
-[Proje Detayları için Tıklayınız.](https://github.com/betulbodurrr/FamilyTree/blob/main/Project_3.pdf)
+[Proje Detayları için Tıklayınız.](https://github.com/betulbodurrr/FamilyTree/blob/main/Project_3.pdf)<br>
 
-<br>
+
 <img align="center" src="https://www.svgrepo.com/show/365950/usa.svg"  height="20" width="30" />En:</a><br>
 
 Programming Laboratory I, our 3rd project is the Rock Paper Scissors project.
