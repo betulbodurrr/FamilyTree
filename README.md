@@ -31,9 +31,9 @@ The information of individuals in the .csv file should be read, and based on the
 
 <br><br>
 
-<img align="center" src="https://github.com/betulbodurrr/FamilyTree/blob/main/resim_2024-01-30_230747696.png"  height="400" width="400" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/FamilyTree/blob/main/resim_2024-01-30_230839074.png"  height="600" width="500" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/FamilyTree/blob/main/resim_2024-01-30_231232813.png"  height="400" width="800" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/FamilyTree/blob/main/img1.png"  height="400" width="400" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/FamilyTree/blob/main/img2.png"  height="600" width="500" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/FamilyTree/blob/main/img3.png"  height="400" width="800" /></a><br><br>
 
-<img align="center" src="https://github.com/betulbodurrr/FamilyTree/blob/main/resim_2024-01-30_231310054.png"  height="400" width="400" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/FamilyTree/blob/main/resim_2024-01-30_231330309.png"  height="400" width="800" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/FamilyTree/blob/main/img4.png"  height="400" width="400" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/FamilyTree/blob/main/img5.png"  height="400" width="800" /></a><br><br>
